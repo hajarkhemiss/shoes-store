@@ -1,0 +1,1072 @@
+
+body{ 
+    margin: auto;
+    font-family:"Arial";
+   
+}
+
+
+#Tous{
+  
+    width:1028px;
+    margin: 15px auto;
+    margin: auto;
+    
+   
+    
+}
+header{
+    
+    height: 65px;
+    width:1028px;
+    margin: 15px auto;
+    margin: auto;
+    background-color: white;
+   
+    
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    position: relative;
+   
+    height: 30px;
+    
+   
+    
+}
+.icon{
+    position: relative;
+    bottom: 215px;
+    left: 930px;
+}
+.accueil:hover{
+   
+    font-size: large;
+}
+.contact{
+    
+    position: relative;
+    top: 0px;
+    
+ 
+
+}
+.menu,.contact{
+    position: relative;
+    bottom: 180px;
+   
+  
+
+}
+.accueil,.produits,.femmes,.hommes,.enfants,.services,.contact{
+    margin-right: 35px;
+    position: relative;
+    left: 200px;
+    color: #05072D;
+    
+   
+}
+#logo{
+    
+    position: relative;
+    bottom: 69px;
+    right: 55px;
+
+}
+
+.imageprincipale{
+    background-image:url("fond2.png");
+    width: 1028px;
+    height: 675px;
+    background-repeat: no-repeat;
+   
+    
+    
+}
+.Texte{
+    font-size: 70px;
+    color: white;
+    padding: 20px;
+    padding-top: 65px;
+}
+.Texte1{
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    padding-top: 65px;
+
+}
+h2{
+ text-align: center;
+    
+    font-size: 40px;
+}
+.Produits{
+    position: relative;
+    bottom: 93px;
+    background-color: #CC6699;
+    height: 570px;
+    border: 1px solid #CC6699;
+}
+.Produits h2{
+    position: relative;
+    top: 10px;
+    right: 5px;
+
+}
+.produit1:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produit2:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produit3:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.Services h2{
+    position: relative;
+    top: 10px;
+
+}
+.petite-fond{
+    width: 10px;
+    padding-left: 80px;
+    padding-top: 90px;
+
+}
+.prix{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: large;
+
+
+}
+.button{
+    text-align: center;
+    position: relative;
+    top: 30px;
+    
+    
+    
+}
+.savoirplus{
+    font-size: large;
+    color: white;
+    padding: 5px;
+    background: linear-gradient(to left,#CC6699, #05072D);
+    border: 1px solid rgb(187, 178, 178);
+    border-radius: 5px;
+    box-shadow: #000000 0 0 3px;
+
+
+}
+.produit1,.produit2,.produit3{
+    display: inline-block;
+    margin: 20px;
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    
+}
+.produit2{
+    margin-left: 89px;
+    
+}
+.produit3{
+    margin-left: 89px;
+   
+}
+
+.Categories{
+   
+    height: 600px;
+}
+.Categories h2{
+    position: relative;
+    bottom: 50px;
+    right: 10px;
+}
+.Hommes{
+    background-image:url("Hommefond.png");
+    width: 300px;
+    height: 440px;
+   
+    
+    
+}
+.Femmes{
+    background-image:url("Femmefond.png");
+    width: 300px;
+    height: 440px;
+   
+    
+    
+}
+.Enfants{
+    background-image:url("Enfantfond.png");
+    width: 300px;
+    height: 440px;
+   
+    
+    
+}
+.Hommes,.Femmes,.Enfants{
+    display: inline-block;
+    
+    margin-left: 16px;
+    margin-right: 20px;
+    border-radius: 15px;
+    border: 1px solid black;
+   
+}
+.Hommes:hover{
+    box-shadow: #05072D 1px 1px 30px;
+}
+.Femmes:hover{
+    box-shadow: #05072D  1px 1px 30px;
+}
+.Enfants:hover{
+    box-shadow: #05072D  1px 1px 30px;
+}
+.informations{
+    font-size: 37px;
+    padding-top: 300px;
+    padding-left: 5px;
+}
+.informations1{
+    font-size: 16px;
+    padding-left: 5px;
+}
+.Services{
+    border: 1px solid black;
+    height: 440px;
+    background-color: #05072D;
+}
+
+.service{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+    color: white;
+    
+
+    
+}
+.Services h2{
+    color: white;
+}
+
+.img-service{
+   
+    margin-left: 100px;
+    margin-top: 50px;
+   
+}
+.service1{
+    font-size: large;
+    margin-left: 99px;
+    margin-top: 35px;
+  
+}
+.bienvenue{
+    background-image: url("imgchaussurecolors.png");
+    width: 1026px;
+    height: 493px;
+}
+
+h1{
+    margin-top: 50px;
+    margin-left: 650px;
+    font-size: 65px;
+    font-family: 'Comic Sans MS';
+}
+
+.bienvenue1{
+    width: 200px;
+    
+    margin-left: 650px;
+
+}
+#motdepasse{
+    background-color: white;
+    width: 350px;
+    height: 45px;
+    border-radius: 5px;
+    opacity: 30%;
+}
+#nom{
+    background-color: white;
+    width: 350px;
+    height: 45px;
+    border-radius: 5px;
+    opacity: 30%;
+
+}
+#connecter{
+    background-color: #CC6699;
+    width: 355px;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 25px;
+    color:white;
+    border: #CC6699 1px solid;
+    box-shadow: #39393a 0 0 3px;
+}
+#oublie {
+   text-decoration: none;
+   color: rgb(97, 94, 94);
+}
+.titre{
+    font-size: 20px;
+}
+.textfooter{
+    font-size: 15px;
+}
+.logo1,.apropos,.contactfooter,.elements{
+    display: inline-block;
+
+
+}
+
+.apropos,.contactfooter{
+    margin-right: 85px;
+    margin-bottom: 100px;
+   
+    
+    
+}
+.logo1{
+   
+    padding-top: 40px;
+    margin-top: 10px;
+    position: relative;
+    bottom: 60px;
+    right: 55px;
+    
+}
+.moyensdepaiement{
+    position: relative;
+    bottom: 40px;
+    left:115px;
+}
+
+.contactfooter{
+    position: relative;
+    bottom: 75px;
+    left: 60px;
+    
+
+
+}
+.elements{
+    position: relative;
+    top: 30px;
+  
+   
+
+}
+.apropos{
+    position: relative;
+    bottom: 95px;
+    left: 5px;
+
+
+}
+
+
+#facebook{
+    position: relative;
+    right:105px;
+    margin-top: 20px;
+    bottom: 7px;
+}
+#whatsapp{
+    position: relative;
+    right:53px;
+
+}
+#whatsapp,#insta{
+    margin-bottom: 5px;
+    margin-right: 61px;
+}
+
+#m.card{
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#visa,#paypal{
+    margin-bottom: 5px;
+    margin-right: 20px;
+}
+.suiver{
+    position: relative;
+    bottom: 25px;
+    
+}
+.img-moyens{
+    position: relative;
+    bottom: 15px;
+
+}
+.suivez-nous{
+    position: relative;
+    bottom: 45px;
+    left: 115px;
+}
+.footer{
+    height: 320px;
+    width: 1028px;
+    position: relative;
+    
+    
+    
+}
+
+
+
+
+
+
+.imagebienvenue{
+    background-image: url("imagebienvenue.jpeg");
+    width: 1028px;
+    height: 390px;
+    background-repeat: no-repeat;
+    
+    
+}
+.textbienvenue{
+   
+    font-size: 65px;
+    position: relative;
+    top: 54px;
+    
+}
+.textbienvenue1{
+    
+    position: relative;
+    left: 358px;
+    top: 54px;
+    
+    font-size: 25px;
+
+}
+#HOMMES{
+    font-size: 65px;
+    position: relative;
+    top: 50px;
+    
+
+}
+.produitsshommes{
+    background-image: url("fond-images.png");
+    border: 1px solid #ffffff;
+    background-repeat: no-repeat;
+    height: 1260px;
+    border-radius: 40px;
+    box-shadow: #39393a  2px 2px 26px;
+    
+
+}
+.produithommes1,.produithommes2,.produithommes3{
+    display: inline-block;
+    
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+    position: relative;
+    
+    
+
+}
+.produithommes4,.produithommes5,.produithommes6{
+    display: inline-block;
+   
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+   
+    position: relative;
+   
+    
+
+}
+.groupe1,.groupe2{
+    position: relative;
+    top: 130px;
+
+
+}
+.produithommes2{
+    position: relative;
+    top: 20px;
+}
+.produithommes5,.produithommes6{
+    position: relative;
+    top: 50px;
+
+}
+
+.produithommes1 img{
+    position: relative;
+    right: 35px;
+
+}
+.produithommes2 img{
+    position: relative;
+    right: 35px;
+    bottom: 10px;
+
+}
+.produithommes3 img{
+    position: relative;
+    right: 35px;
+
+}
+.produithommes4 img{
+    position: relative;
+    right: 35px;
+
+}
+.produithommes5 img{
+    position: relative;
+    right: 35px;
+    bottom: 32px;
+
+}
+.produithommes6 img{
+    position: relative;
+    right: 35px;
+    bottom: 32px;
+
+}
+.produithommes1:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produithommes2:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produithommes3:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produithommes4:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produithommes5:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produithommes6:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+
+
+
+.button11,.prix11{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+.button22,.prix22{
+    position: relative;
+    text-align: center;
+    top: 10px;
+}
+.button33,.prix33{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+.produithommes2 .button3,.prix3{
+    position: relative;
+    text-align: center;
+    
+}
+.button44,.prix44{
+    position: relative;
+    text-align: center;
+    top: 10px;
+}
+.button55,.prix55{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+   
+}
+.button66,.prix66{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+}
+
+
+
+
+
+.produitfemmes1,.produitfemmes2,.produitfemmes3{
+    display: inline-block;
+    
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+    position: relative;
+    
+    
+
+}
+.produitfemmes4,.produitfemmes5,.produitfemmes6{
+    display: inline-block;
+   
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+   
+    position: relative;
+   
+    
+
+}
+.groupe11,.groupe22{
+    position: relative;
+    top: 130px;
+
+
+}
+.produitfemmes2{
+    position: relative;
+    bottom: 40px;
+}
+.produitfemmes3{
+    position: relative;
+    top: 73px;
+}
+.produitfemmes4{
+    position: relative;
+    bottom: 60px;
+
+}
+.produitfemmes5{
+    position: relative;
+    bottom: 30px;
+
+}
+.produitfemmes6{
+    position: relative;
+    top: 10px;
+}
+.produitfemmes1 img{
+    position: relative;
+    right: 35px;
+
+}
+.produitfemmes2 img{
+    position: relative;
+    right: 35px;
+    top: 30px;
+
+}
+.produitfemmes3 img{
+    position: relative;
+    right: 35px;
+    bottom: 30px;
+    
+
+}
+.produitfemmes4 img{
+    position: relative;
+    right: 35px;
+
+}
+.produitfemmes5 img{
+    position: relative;
+    right: 35px;
+    
+
+}
+.produitfemmes6 img{
+    position: relative;
+    right: 35px;
+    bottom: 32px;
+
+}
+
+
+.produitfemmes1 .button1,.prix1{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+.produitfemmes2 .button2,.prix2{
+    position: relative;
+    text-align: center;
+    top: 65px;
+}
+.produitfemmes3 .button3,.prix3{
+    position: relative;
+    text-align: center;
+    bottom: 50px;
+  
+   
+   
+}
+.button4,.prix4{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+.produitfemmes5 .button5,.prix5{
+    position: relative;
+    text-align: center;
+    
+    
+   
+}
+.produitfemmes6 .button6,.prix6{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+}
+.groupe1,.groupe2{
+    position: relative;
+    top: 80px;
+
+
+}
+.produitfemmes1:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitfemmes2:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitfemmes3:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitfemmes4:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitfemmes5:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitfemmes6:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+
+
+
+
+
+
+
+
+
+.produitenfants1,.produitenfants2,.produitenfants3{
+    display: inline-block;
+    
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+    position: relative;
+    
+    
+
+}
+.produitenfants4,.produitenfants5,.produitenfants6{
+    display: inline-block;
+   
+    width:250px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4 px 2 px rgba(200,120,120,0.6);
+    background-color: aliceblue;
+    left: 130px;
+   
+    position: relative;
+   
+}
+.produitenfants6{
+    position: relative;
+    bottom: 12px;
+
+}
+.produitenfants1 img{
+    position: relative;
+    right: 45px;
+    bottom: 45px;
+
+}
+.produitenfants2 img{
+    position: relative;
+    right: 45px;
+    bottom: 25px;
+
+}
+.produitenfants3 img{
+    position: relative;
+    right: 35px;
+    bottom: 30px;
+    
+
+}
+.produitenfants4 img{
+    position: relative;
+    right: 35px;
+    bottom: 15px;
+
+}
+.produitenfants5 img{
+    position: relative;
+    right: 35px;
+    bottom: 15px;
+    
+
+}
+.produitenfants6 img{
+    position: relative;
+    right: 45px;
+    bottom: 10px;
+
+}
+.produitenfants1:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitenfants2:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitenfants3:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitenfants4:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitenfants5:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.produitenfants6:hover{
+    box-shadow: #000000 1px 1px 10px;
+}
+.button111,.prix111{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+}
+.button222,.prix222{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+   
+}
+.button333,.prix333{
+    position: relative;
+    text-align: center;
+    bottom: 40px;
+   
+}
+.button444,.prix444{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+}
+.button555,.prix555{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+   
+}
+.button666,.prix666{
+    
+    text-align: center;
+   
+}
+.groupe111{
+    position: relative;
+    top: 150px;
+
+}
+
+.groupe222{
+    position: relative;
+    top: 205px;
+
+}
+
+
+.lesbottons1,.lesbottons2,.panier,.imgproduit{
+    display: inline-block;
+
+}
+.tous1{
+    background-image: url("petit-fond.png");
+    width: 1000px;
+    height: 580px;
+    position: relative;
+    left: 13px;
+    top: 10px;
+    border: 1px solid white;
+    border-radius: 90px;
+    box-shadow: #39393a  2px 2px 26px;
+}
+.imgproduit{
+    position: relative;
+    left: 90px;
+    top: 70px;
+
+}
+.panier{
+    position: relative;
+    top: 80px;
+    right: 20px;
+   
+}
+.size{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    bottom: 60px;
+    left: 30px;
+}
+.size1,.size2,.size3,.size4{
+    border: 1px solid rgb(192, 187, 187);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    background-color: beige;
+    position: relative;
+    left: 40px;
+    width: 50px;
+    
+}
+.size1:hover{
+    box-shadow: rgb(192, 187, 187) 1px 1px 10px;
+    background-color: rgb(192, 187, 187);
+}
+.size2:hover{
+    box-shadow: rgb(192, 187, 187) 1px 1px 10px;
+    background-color: rgb(192, 187, 187);
+}
+.size3:hover{
+    box-shadow: rgb(192, 187, 187) 1px 1px 10px;
+    background-color: rgb(192, 187, 187);
+}
+.size4:hover{
+    box-shadow: rgb(192, 187, 187) 1px 1px 10px;
+    background-color: rgb(192, 187, 187);
+}
+.size1{
+    position: relative;
+    bottom: 50px;
+
+}
+.size2{
+    position: relative;
+    bottom: 40px;
+
+}
+
+.size3{
+    position: relative;
+    bottom: 30px;
+
+}
+
+.size4{
+    position: relative;
+    bottom: 20px;
+
+}
+.prixtext{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    left: 180px;
+    bottom: 150px;
+}
+.prixproduit1{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 210px;
+    bottom: 135px;
+}
+.couleurstext{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    left: 180px;
+    bottom: 69px;
+
+}
+.clrs{
+    border: 1px solid #05072D;
+    border-radius: 10px;
+    background-color:#05072D;
+    position: relative;
+    width: 50px;
+    height: 30px;
+    left: 210px;
+    bottom: 50px;
+   
+}
+.clrs:hover{
+    box-shadow: #05072D 1px 1px 10px;
+}
+.clrs2{
+    border: 1px solid #e0aa15;
+    border-radius: 10px;
+    background-color:#e0aa15;
+    position: relative;
+    width: 50px;
+    height: 30px;
+    left: 210px;
+    bottom: 50px;
+   
+}
+.clrs2:hover{
+    box-shadow: #e0aa15 1px 1px 10px;
+}
+.clrs3{
+    border: 1px solid #70a9ff;
+    border-radius: 10px;
+    background-color:#70a9ff;
+    position: relative;
+    width: 50px;
+    height: 30px;
+    left: 270px;
+    bottom: 83px;
+    
+}
+.clrs3:hover{
+    box-shadow: #70a9ff 1px 1px 10px;
+}
+button
+
+
